@@ -1,2 +1,2 @@
 #!/bin/bash
-tree <directory>
+find <directory> -type f | wc -l
