@@ -1,2 +1,2 @@
 #!/bin/bash
-0 -i string SCHOOL School data
+0 -i school.mgc SCHOOL School data
