@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C string SCHOOL School data
+file -f string SCHOOL School data
