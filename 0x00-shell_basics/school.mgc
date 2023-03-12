@@ -1,2 +1,2 @@
 #!/bin/bash
-file -i string SCHOOL School data
+0 -i string SCHOOL School data
