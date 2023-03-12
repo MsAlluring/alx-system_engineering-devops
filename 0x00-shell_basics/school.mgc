@@ -1,2 +1,2 @@
 #!/bin/bash
-0 -i school.mgc SCHOOL School data
+file 0 -m school.mgc SCHOOL -f School
