@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x hello school
+chmod a+x hello school
