@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello vincent:staff
+chmod u+x hello vincent:staff
